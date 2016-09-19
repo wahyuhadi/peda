@@ -1,6 +1,6 @@
 peda
 ====
-
+# sudo apt-get install gdb
 PEDA - Python Exploit Development Assistance for GDB
 
 ## Key Features:
